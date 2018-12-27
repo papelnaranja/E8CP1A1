@@ -27,5 +27,5 @@ def search_word(super_file, word_to_search)
     puts array_of_search.length
 
 end
-cont_word('peliculas.txt')
-#search_word('peliculas.txt', 'Episodio')
+#cont_word('peliculas.txt')
+search_word('peliculas.txt', 'Episodio')
