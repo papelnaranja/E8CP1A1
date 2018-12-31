@@ -59,6 +59,6 @@ end
 
 new_array = ['foo', 'bar', 'pepe']
 
-#do_par('hola', 'chao')
-#do_ol('str', 'str2', new_array)
+do_par('hola', 'chao')
+do_ol('str', 'str2', new_array)
 do_with_color('str', 'str2', new_array, '#f4f4f4')
